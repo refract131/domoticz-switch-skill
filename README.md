@@ -2,7 +2,7 @@
 Turn on domoticz light switch
 
 ## About
-For the love of god do not huse this nooby code.
+For the love of god do not use this nooby code.
 
 ## Examples
 * "Turn on the light"
